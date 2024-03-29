@@ -2,14 +2,13 @@
 
 ## Overview
 This repository contains the python code and documentation for analyzing the "Iris" dataset using
- Python and statistical methods. The dataset consists of various variables related to restaurant bills and tips,
- including total bill amount, tip amount, customer gender, smoking status, day of the week, time of day, and party size. 
+ Python and statistical methods. The dataset consists of various variables related to sepal_length, sepal_width, petal_length, petal_width, species.
 Our goal is to explore, analyze, and draw insights from this data.
 ## Dataset Description
-The "Iris" dataset contains information about restaurant bills and tips. Each entry represents a unique 
+The "Iris" dataset contains information about flowers into three categories, setosa, versicolor, virginica. Each entry represents a unique 
 dining experience and includes the following columns:
 
-- **total_bill**: Represents the total bill amount in a restaurant setting.
+
 - **sepal_length**: Denotes the length of the sepal (a part of the flower) in centimeters
 - **sepal_width**: Indicates the width of the sepal in centimeters.		
 - **petal_length**: Specifies the length of the petal (another part of the flower) in centimeters.
